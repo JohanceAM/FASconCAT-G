@@ -8,7 +8,7 @@ use Getopt::Std;
 ######################################### ENTER THE PROTTEST SOFTWARE NAME OF YOUR RUNNING SYSTEM IN SINGLE QUOTATION MARKS ''
 # DEFINEMENT OF ACTUAL PROTTEST SOFTWARE NAME
 my $prottest = 'prottest-3.3.jar' ;
-##############################
+
 
 
 # written by patrick k�ck, zentrales forschungsmuseum alexander koenig, bonn, germany
